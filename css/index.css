@@ -1,0 +1,107 @@
+
+#jump2{
+
+    width: 400px;
+    height: 140px;
+    background-color: rgb(255, 255, 255);
+ 
+    top: 0;
+    left: 0;
+    opacity: 60%;
+
+
+}
+
+
+.h2 {
+
+      /* text-align: center;  */
+
+      /* centralizar o a palavra, o tema o que vc for selecionar */
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 520px;
+
+
+}
+
+li{
+
+display: inline-flex;
+padding: 10px;
+
+}
+
+li a{
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: black;
+transition: all 0.5s;
+top: 10%;
+
+
+}
+
+li a:hover{
+    
+    background-color: white;
+}
+
+
+
+.pedrinho{
+   
+    border: 2px solid black ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    background-color: Gray;
+    top: 
+    padding 5px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+ }
+
+
+    #jesus{
+inline-size: 60px;
+
+
+
+    }
+
+    .paragrafo{
+
+font-family: Arial, Helvetica, sans-serif;
+margin: 40px;
+font-size: 26px;
+
+
+    }
+
+    #carros{
+height:350px;
+width: 500px;
+margin-left: 750px;
+    }
+
+    .h3{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 26px;
+        margin-left: 85px;
+
+    }
+
+    #toyota{
+        margin-left: 400px;
+    }
+
+
+    .lista{
+
+        
+    }
